@@ -16,7 +16,7 @@ Este proyecto consiste en el desarrollo/ creacion de un primer portafolio web pe
 - [x] Proyecto publicado utilizando GitHub Pages.
 - [x] En el `README.md` se indica la URL de GitHub Pages.
 
-🔗 URL del proyecto publicado: [https://tuusuario.github.io/Mi-Portafolio](https://tuusuario.github.io/Mi-Portafolio)  
+🔗 URL del proyecto publicado: [https://github.com/sele-ctrl/Front-portafolio.git]
 **************************************************
 
 ### Uso de Google Fonts:
